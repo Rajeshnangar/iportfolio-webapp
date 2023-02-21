@@ -1,0 +1,19 @@
+[
+  { "className": "twitter", "socialIcon": "bxl-twitter", "redirectTo": "#" },
+  {
+    "className": "facebook",
+    "socialIcon": "bxl-facebook",
+    "redirectTo": "#"
+  },
+  {
+    "className": "instagram",
+    "socialIcon": "bxl-instagram",
+    "redirectTo": "#"
+  },
+  {
+    "className": "google-plus",
+    "socialIcon": "bxl-skype",
+    "redirectTo": "#"
+  },
+  { "className": "linkedin", "socialIcon": "bxl-linkedin", "redirectTo": "#" }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Happy Clients",
+    "description": "consequuntur quae",
+    "icon":"bi-emoji-smile",
+    "data_purecounter_start": "0",
+    "data_purecounter_end": "232", 
+    "data_purecounter_duration": "1",
+    "data_aos_delay":""
+  },
+  {
+    "name": "Projects",
+    "description": "consequuntur quae", 
+    "icon":"bi-journal-richtext",
+    "data_purecounter_start": "0",
+    "data_purecounter_end": "521", 
+    "data_purecounter_duration": "1",
+    "data_aos_delay":"100"
+  },
+  {
+    "name": "Hours Of Support",
+    "description": "consequuntur quae",
+    "icon":"bi-headset",
+    "data_purecounter_start": "0",
+    "data_purecounter_end": "1453", 
+    "data_purecounter_duration": "1",
+    "data_aos_delay":"200"
+  },
+  {
+    "name": "Hard Workers",
+    "description": "consequuntur quae",
+    "icon":"bi-people",
+    "data_purecounter_start": "0",
+    "data_purecounter_end": "32", 
+    "data_purecounter_duration": "1",
+    "data_aos_delay":"300"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rajesh Nangar",
+    "about": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisqua quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    "profile": "assets/img/profile-img.jpg",
+    "designation": "UI/UX Designer &amp; Web Developer.",
+    "designation-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "personalDetails": [
+      {
+        "Birthday": "1 May 1995"
+
+      }
+    ]
+  }
+]
